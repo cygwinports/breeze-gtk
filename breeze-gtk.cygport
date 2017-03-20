@@ -2,7 +2,7 @@ inherit kf5
 
 NAME="breeze-gtk"
 VERSION=5.8.5
-RELEASE=1
+RELEASE=2
 CATEGORY="X11"
 SUMMARY="KDE 5 theme for GTK+ applications"
 DESCRIPTION="A GTK+ theme built to match KDE's Breeze."
